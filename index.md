@@ -13,7 +13,9 @@
 ### Pipeline Steps
 -	Examining data on SRA Database
   -	https://datacarpentry.org/organization-genomics/03-ncbi-sra/index.html
-  -	{% link _posts/firstpost.md %}
+
+
+{{ site.baseurl }}{% link _posts/firstpost.md %}
 
 
 -	Examining Read quality 
